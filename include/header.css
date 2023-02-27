@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "Ruha" ;
+    src: url("../static/font/RuhaniyatDemoRegular-0Pdo.otf") format("opentype");
+}
+@font-face {
+    font-family: "Roboto";
+    src: url("../static/font/Roboto-Regular.ttf") format("truetype");
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    align-items: center;
+    text-align: center;
+    margin: 0px 120px;
+    padding: 0;
+}
+h1{
+    padding-top: 125px;
+    padding-left: 320px;
+    font-family: "Roboto";
+    font-size: 50px;
+}
+li{
+    font-family: "Roboto";
+}
+img{
+    height: 150px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+i{
+    margin: 0px 10px;
+}
+header{
+    height: 300px;
+    background-image: url("../static/image/banniere.jpg");
+    background-position: center;
+    background-size: 106%;
+}
+
