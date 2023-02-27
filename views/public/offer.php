@@ -18,8 +18,8 @@
         <div id="tri" style="width:30%;text-align:center">
             <p style="margin: 0;">Trier par</p>
             <div style="display: flex;border: solid 1px #e5e6e8;border-radius: 10px;padding: 5px; justify-content:space-evenly">
-                <div style="border-right: solid 1px #e5e6e8;padding-right: 15px;">Pertinance</div>
-                <div>Date</div>
+                <div style="border-right: solid 1px #e5e6e8;padding-right: 15px;">Date d'ajout</div>
+                <div>Date de fin</div>
             </div>
             <p style="margin: 0;padding-top: 30px;">Type de contrat</p>
             <div style="border: solid 1px #e5e6e8;border-radius: 10px;padding: 5px;" class="dropdown">
