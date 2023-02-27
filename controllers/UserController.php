@@ -11,7 +11,7 @@ class UserController{
     }
     public static function readAll(){
         $Users = User::findAll();
-        require("../views/admin/readAllUser.php");
+        require("../views/admin/User/readAllUser.php");
     }
     public static function readById($id_user){
         $User = User::findById($id_user);
